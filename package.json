@@ -1,0 +1,22 @@
+{
+  "name": "polygon-helloworld",
+  "version": "1.0.0",
+  "description": "https://docs.polygon.technology/docs/develop/alchemy/#network-name-polygon-mumbai-testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiboStore/polygon_hello_world_220328.git"
+  },
+  "author": "Hakim Hauston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiboStore/polygon_hello_world_220328/issues"
+  },
+  "homepage": "https://github.com/JiboStore/polygon_hello_world_220328#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.2"
+  }
+}
